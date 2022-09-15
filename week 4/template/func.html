@@ -1,0 +1,13 @@
+<html>
+<body>
+    <h1>Users</h1>
+    {{range .Users}}
+    <b>{{.Name}}</b>
+    {{if OddUser .}}
+        id {{.ID}} is
+    {{end}}
+    <br />
+    {{end}}
+</body>
+</html>
+
