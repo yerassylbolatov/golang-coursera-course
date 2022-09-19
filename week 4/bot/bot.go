@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	BotToken   = "5723749824:AAGwRCKphPlKSW1U68iZkQMhqedIaKDzU6k"
+	BotToken   = "XXXXXXXXXX:AAGwRCKphPlKSW1U68iZkQMhqedIaKDzU6k"
 	WebhookURL = "https://2ce4-212-96-73-126.eu.ngrok.io"
 )
 
